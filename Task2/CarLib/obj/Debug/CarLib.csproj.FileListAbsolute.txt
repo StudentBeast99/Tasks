@@ -1,0 +1,6 @@
+C:\Users\sidad\Desktop\people\ShipilovA\Sem3\Task2\CarLib\bin\Debug\CarLib.dll
+C:\Users\sidad\Desktop\people\ShipilovA\Sem3\Task2\CarLib\bin\Debug\CarLib.pdb
+C:\Users\sidad\Desktop\people\ShipilovA\Sem3\Task2\CarLib\obj\Debug\CarLib.csprojAssemblyReference.cache
+C:\Users\sidad\Desktop\people\ShipilovA\Sem3\Task2\CarLib\obj\Debug\CarLib.csproj.CoreCompileInputs.cache
+C:\Users\sidad\Desktop\people\ShipilovA\Sem3\Task2\CarLib\obj\Debug\CarLib.dll
+C:\Users\sidad\Desktop\people\ShipilovA\Sem3\Task2\CarLib\obj\Debug\CarLib.pdb

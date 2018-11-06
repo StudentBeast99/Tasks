@@ -1,0 +1,10 @@
+C:\Users\sidad\Desktop\people\ShipilovA\Sem3\Task2\CarConsole\bin\Debug\CarConsole.exe.config
+C:\Users\sidad\Desktop\people\ShipilovA\Sem3\Task2\CarConsole\bin\Debug\CarConsole.exe
+C:\Users\sidad\Desktop\people\ShipilovA\Sem3\Task2\CarConsole\bin\Debug\CarConsole.pdb
+C:\Users\sidad\Desktop\people\ShipilovA\Sem3\Task2\CarConsole\bin\Debug\CarLib.dll
+C:\Users\sidad\Desktop\people\ShipilovA\Sem3\Task2\CarConsole\bin\Debug\CarLib.pdb
+C:\Users\sidad\Desktop\people\ShipilovA\Sem3\Task2\CarConsole\obj\Debug\CarConsole.csprojAssemblyReference.cache
+C:\Users\sidad\Desktop\people\ShipilovA\Sem3\Task2\CarConsole\obj\Debug\CarConsole.csproj.CoreCompileInputs.cache
+C:\Users\sidad\Desktop\people\ShipilovA\Sem3\Task2\CarConsole\obj\Debug\CarConsole.csproj.CopyComplete
+C:\Users\sidad\Desktop\people\ShipilovA\Sem3\Task2\CarConsole\obj\Debug\CarConsole.exe
+C:\Users\sidad\Desktop\people\ShipilovA\Sem3\Task2\CarConsole\obj\Debug\CarConsole.pdb
