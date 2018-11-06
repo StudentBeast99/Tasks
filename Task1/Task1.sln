@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseLib", "HouseLib\HouseLib.csproj", "{031F8534-D390-4601-B63C-C59EF282BE0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HousesConsole", "HousesConsole\HousesConsole.csproj", "{8F5FE3AF-605F-49BC-8FCF-7B8D4341202F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{031F8534-D390-4601-B63C-C59EF282BE0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{031F8534-D390-4601-B63C-C59EF282BE0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{031F8534-D390-4601-B63C-C59EF282BE0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{031F8534-D390-4601-B63C-C59EF282BE0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F5FE3AF-605F-49BC-8FCF-7B8D4341202F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F5FE3AF-605F-49BC-8FCF-7B8D4341202F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F5FE3AF-605F-49BC-8FCF-7B8D4341202F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F5FE3AF-605F-49BC-8FCF-7B8D4341202F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B1C66DB-C5EA-48DC-B0AB-EE33638A1EF6}
+	EndGlobalSection
+EndGlobal

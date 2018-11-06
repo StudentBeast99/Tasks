@@ -1,0 +1,6 @@
+C:\Users\sidad\Desktop\people\ShipilovA\Sem3\Task1\HouseLib\bin\Debug\HouseLib.dll
+C:\Users\sidad\Desktop\people\ShipilovA\Sem3\Task1\HouseLib\bin\Debug\HouseLib.pdb
+C:\Users\sidad\Desktop\people\ShipilovA\Sem3\Task1\HouseLib\obj\Debug\HouseLib.csprojAssemblyReference.cache
+C:\Users\sidad\Desktop\people\ShipilovA\Sem3\Task1\HouseLib\obj\Debug\HouseLib.csproj.CoreCompileInputs.cache
+C:\Users\sidad\Desktop\people\ShipilovA\Sem3\Task1\HouseLib\obj\Debug\HouseLib.dll
+C:\Users\sidad\Desktop\people\ShipilovA\Sem3\Task1\HouseLib\obj\Debug\HouseLib.pdb
